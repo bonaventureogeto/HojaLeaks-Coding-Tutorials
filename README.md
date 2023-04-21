@@ -7,7 +7,7 @@ To get started, you can simply browse through the content available on our websi
 If you want to contribute to our platform, you can create a pull request on our GitHub repository. We welcome contributions in the form of tutorials, code snippets, and any other open-source content that can be helpful to developers.
 
 ## Issues
-If you encounter any issues while using hojaleaks coding tutorials, please [open a new issue](https://github.com/hojaleaks/hojaleaks-coding-tutorials/issues/new) and we'll do our best to address it as soon as possible.
+If you encounter any issues while using hojaleaks coding tutorials, please [open a new issue](https://github.com/bonaventureogeto/HojaLeaks-Coding-Tutorials/issues) and we'll do our best to address it as soon as possible.
 
 ## Contributing
 We encourage and welcome contributions from everyone. If you want to contribute to our platform, please follow these guidelines:
