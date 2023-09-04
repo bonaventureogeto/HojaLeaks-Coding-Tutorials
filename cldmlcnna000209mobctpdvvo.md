@@ -100,7 +100,7 @@ footer {
 
 ### 2\. Retrieve the API Key from OpenWeatherMap
 
-Go to OpenWeatherMap's website ([**https://openweather**](https://openweather)[map.org/](http://map.org/)) and sign up for a free account to get an API key. The API key will be used to retrieve weather data from their servers.
+Go to [OpenWeatherMap's website](https://openweathermap.org/api) and sign up for a free account to get an API key. The API key will be used to retrieve weather data from their servers.
 
 ### 3\. Add JavaScript to Retrieve and Display Weather Data
 
