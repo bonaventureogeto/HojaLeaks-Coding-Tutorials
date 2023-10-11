@@ -4,6 +4,7 @@ seoTitle: "Introduction to Node.js 101"
 datePublished: Wed Oct 11 2023 09:36:26 GMT+0000 (Coordinated Universal Time)
 cuid: clnlk3iuq000i09mngms925tq
 slug: introduction-to-nodejs
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/4hbJ-eymZ1o/upload/a7be3428dcc11e0f5fc61df753a0d468.jpeg
 tags: javascript, web-development, nodejs, backend, webdev
 
 ---
