@@ -12,11 +12,11 @@ tags: javascript, web-development, mongodb, nodejs, databases
 
 MongoDB provides different installation methods for various operating systems, so be sure to choose the one that matches your system.
 
-**Step 1: Choose the Installation Method**
+### **Step 1: Choose the Installation Method**
 
 MongoDB offers various installation methods, including Community Server, Atlas (MongoDB's hosted database service), and Docker. Here, I'll cover the installation of the MongoDB Community Server, which is the open-source version of MongoDB that you can install on your local machine.
 
-**Step 2: Download MongoDB (Community Server)**
+### **Step 2: Download MongoDB (Community Server)**
 
 1. Visit the MongoDB download page: [MongoDB Download Center](https://www.mongodb.com/try/download/community)
     
@@ -27,7 +27,7 @@ MongoDB offers various installation methods, including Community Server, Atlas (
 3. Download the package to your local machine.
     
 
-**Step 3: Install MongoDB**
+### **Step 3: Install MongoDB**
 
 The installation steps vary depending on your operating system. Here are instructions for Windows, macOS, and Linux:
 
@@ -86,7 +86,7 @@ E: Unable to correct problems, you have held broken packages.
 
 In case you get the error message above in Ubuntu, refer to this solution on StackOverflow [https://stackoverflow.com/questions/73656873/unable-to-install-mongodb-in-ubuntu-22-04-mongodb-org-libssl1-1](https://stackoverflow.com/questions/73656873/unable-to-install-mongodb-in-ubuntu-22-04-mongodb-org-libssl1-1)
 
-**Step 4: Start MongoDB**
+### **Step 4: Start MongoDB**
 
 * **Windows**: If you installed MongoDB as a service, it should automatically start with your system. Otherwise, you can start MongoDB by running the `mongod` executable.
     
@@ -97,7 +97,7 @@ In case you get the error message above in Ubuntu, refer to this solution on Sta
     ```
     
 
-**Step 5: Verify MongoDB is Running**
+### **Step 5: Verify MongoDB is Running**
 
 You can verify that MongoDB is running correctly by opening a terminal and running the following command:
 
