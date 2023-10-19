@@ -229,6 +229,9 @@ const mongoose = require('mongoose');
 
 // ...
 
+// body-parser middleware
+app.use(express.json());
+
 // Import your routes
 const todosRouter = require('./routes/todos');
 
