@@ -1,9 +1,9 @@
 ---
-title: "𝟰𝟵 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 B𝗹𝗼𝗴𝘀 𝘁𝗼 I𝗺𝗽𝗿𝗼𝘃𝗲 Y𝗼𝘂𝗿 S𝘆𝘀𝘁𝗲𝗺 D𝗲𝘀𝗶𝗴𝗻"
-seoTitle: "𝟰𝟵 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 B𝗹𝗼𝗴𝘀 to Improve Your S𝘆𝘀stem Design"
+title: "49 Engineering Blogs to Improve Your System Design"
+seoTitle: "49 Engineering Blogs to Improve Your System Design"
 datePublished: Thu Oct 19 2023 18:20:10 GMT+0000 (Coordinated Universal Time)
 cuid: clnxibvib000109l5f14r3dux
-slug: b-i-y-s-d
+slug: 49-engineering-blogs-to-improve-your-system-design
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Jt9syHEhrPE/upload/cfb46aca51f64e1c7242183a2f124962.jpeg
 tags: programming-blogs, aws, web-development, devops, system-architecture
 
