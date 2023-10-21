@@ -1,9 +1,9 @@
 ---
-title: "Python Implementation of The Hangman Game"
+title: "A Python Implementation of The Hangman Game"
 seoTitle: "Python Implementation of The Hangman Game"
 datePublished: Sat Oct 21 2023 18:34:16 GMT+0000 (Coordinated Universal Time)
 cuid: clo0dppuu000h09mhh2gahhex
-slug: python-implementation-of-the-hangman-game
+slug: a-python-implementation-of-the-hangman-game
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697913150797/fde9840a-58f5-46e5-85ee-0b71a992c375.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1697913227033/a566b030-8a68-4ac7-a578-a83c514c5b0b.jpeg
 tags: python, web-development, webdev, python3, game-development
