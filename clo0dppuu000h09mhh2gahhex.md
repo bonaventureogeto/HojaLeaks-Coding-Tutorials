@@ -154,6 +154,8 @@ def draw_hangman(failed_attempts):
 
 You can also add more features to the game, such as allowing the player to play again after losing or winning, keeping track of the score, etc.
 
+### GitHub Repo
+
 Check out [this GitHub repo](https://github.com/bonaventureogeto/Learn-Python/blob/main/hangman.py) for another implementation of the Hangman game.
 
 I'd love to connect with you via [**Twitter**](https://twitter.com/bonaogeto) & [**LinkedIn**](https://www.linkedin.com/in/bonaventureogeto/)
