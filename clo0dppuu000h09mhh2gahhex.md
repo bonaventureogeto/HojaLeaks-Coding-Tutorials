@@ -133,10 +133,10 @@ def draw_hangman(failed_attempts):
     
     # Draw the left
     if failed_attempts > 4:
-    t.penup()
-    t.goto(-20, 50)
-    t.pendown()
-    t.dot(10)
+        t.penup()
+        t.goto(-20, 50)
+        t.pendown()
+        t.dot(10)
 
     # Draw the right eye
     if failed_attempts > 5:
@@ -148,8 +148,8 @@ def draw_hangman(failed_attempts):
     turtle.done()
     # Call the draw_hangman function inside the while loop
     while '_' in hidden_word and failed_attempts < 6:
-    # Code for guessing letters and updating hidden_word
-    draw_hangman(failed_attempts)
+        # Code for guessing letters and updating hidden_word
+        draw_hangman(failed_attempts)
 ```
 
 You can also add more features to the game, such as allowing the player to play again after losing or winning, keeping track of the score, etc.
