@@ -233,7 +233,7 @@ const mongoose = require('mongoose');
 app.use(express.json());
 
 // Import your routes
-const todosRouter = require('./routes/todos');
+const todosRouter = require('../routes/todos');
 
 // Use your routes
 app.use('/todos', todosRouter);
