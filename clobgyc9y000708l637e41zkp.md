@@ -33,8 +33,9 @@ Follow these steps in the specified order to ensure success:
 ](https://lnkd.in/egXizUrS%EF%BF%BC)      
  7. REST API vs GraphQL - [https://lnkd.in/eZHREdgC  
 ](https://lnkd.in/eZHREdgC%EF%BF%BC)      
- 8. API Integration - [https://lnkd.in/eDASPP5m  
-](https://lnkd.in/eDASPP5m%EF%BF%BC)      
+ 8. API Integration - [https://lnkd.in/eDASPP5m](https://lnkd.in/eDASPP5m%EF%BF%BC)
+
+  
  9. API Integration in Detail - [https://lnkd.in/eZwFVrH7  
 ](https://lnkd.in/eZwFVrH7%EF%BF%BC)      
 10\. API Testing - [https://lnkd.in/emgmWJqH  
@@ -55,7 +56,6 @@ Follow these steps in the specified order to ensure success:
 
 🌟 Enjoying my content? Stay in the loop! 🌟
 
-  
 Follow & Subscribe to my newsletter!
 
 I'd love to connect with you via [**Twitter**](https://twitter.com/bonaogeto) & [**LinkedIn**](https://www.linkedin.com/in/bonaventureogeto/)
