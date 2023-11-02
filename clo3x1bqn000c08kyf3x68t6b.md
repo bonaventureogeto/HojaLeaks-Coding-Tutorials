@@ -1,9 +1,9 @@
 ---
-title: "20 LeetCode Questions You Cannot Miss For Placements and Interviews"
+title: "Interview Prep 101: 20 LeetCode Questions You Must Know"
 seoTitle: "Top LeetCode Posts That You Cannot Miss For Placements and Interviews"
 datePublished: Tue Oct 24 2023 05:58:29 GMT+0000 (Coordinated Universal Time)
 cuid: clo3x1bqn000c08kyf3x68t6b
-slug: 20-leetcode-questions-you-cannot-miss-for-placements-and-interviews
+slug: interview-prep-101-20-leetcode-questions-you-must-know
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1698127005632/4f75a269-1db5-44fa-8cb1-7601a0514f13.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1698127022071/c68a013d-af04-4ddb-9547-5354f38bf85d.png
 tags: interview, web-development, developer, jobs, leetcode
