@@ -1,9 +1,9 @@
 ---
-title: "10 GitHub Repositories to Become a React Master"
+title: "10 GitHub Repositories Every React Developer Must Know"
 seoTitle: "10 GitHub Repositories to Become a React Master"
 datePublished: Fri Nov 10 2023 12:54:31 GMT+0000 (Coordinated Universal Time)
 cuid: closmdtdq000a08lfbtavflwn
-slug: 10-github-repositories-to-become-a-react-master
+slug: 10-github-repositories-every-react-developer-must-know
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1699620027215/e1a32384-04a5-40f4-954f-540d26c8e8e6.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1699620831333/e11dde45-df61-43b2-aeb3-16539737fe88.jpeg
 tags: tutorial, github, web-development, webdev, reactjs
