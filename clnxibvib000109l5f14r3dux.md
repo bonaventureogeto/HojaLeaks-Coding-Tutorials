@@ -20,11 +20,15 @@ Engineering at Meta is a technical news resource for engineers interested in how
 
 [https://engineering.fb.com/](https://engineering.fb.com/)
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1700071560466/12a0f7c8-8fed-4328-83d2-d85ae17c0d8c.png align="center")
+
 ### Google Research
 
 Google Research tackles challenges that define the technology of today and tomorrow.
 
 [https://ai.googleblog.com/](https://blog.research.google/)
+
+![Google Research Blog](https://research.google/static/images/blog/google-ai-meta.png align="left")
 
 ### Google Cloud Blog
 
@@ -32,9 +36,13 @@ News, tips, and inspiration to accelerate your digital transformation
 
 [https://cloud.google.com/blog/](https://cloud.google.com/blog/)
 
+![Google Cloud expands AI offerings with new tools, programs and partnerships  | VentureBeat](https://venturebeat.com/wp-content/uploads/2023/06/New-Project-2.jpg?fit=1964%2C1105&strip=all align="left")
+
 ### AWS Architecture Blog
 
 [https://aws.amazon.com/blogs/architecture/](https://aws.amazon.com/blogs/architecture/)
+
+![Let's Architect! Optimizing the cost of your architecture | AWS Architecture  Blog](https://d1.awsstatic.com/ac-lets-architect-600x400.196c8728f650f91299784760eb0b55a427e93417.jpeg align="left")
 
 ### All Things Distributed
 
@@ -42,15 +50,21 @@ News, tips, and inspiration to accelerate your digital transformation
 
 [https://www.allthingsdistributed.com/](https://www.allthingsdistributed.com/)
 
+![All Things Distributed](https://www.allthingsdistributed.com/images/reinvent2012.jpg align="left")
+
 ### The Nextflix Tech Blog
 
 [https://netflixtechblog.com/](https://netflixtechblog.com/)
 
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1700071971138/a1d56da8-1c8a-441a-9929-91931b855c84.png align="center")
+
 ### LinkedIn Engineering Blog
 
-From scaling the LinkedIn platform to designing what’s next, they're building what's needed to connect the world's professionals to economic opportunity. 
+From scaling the LinkedIn platform to designing what’s next, they're building what's needed to connect the world's professionals to economic opportunity.
 
 [https://engineering.linkedin.com/blog](https://engineering.linkedin.com/blog)
+
+![Blog | LinkedIn Engineering](https://engineering.linkedin.com/content/dam/engineering/site-assets/images/eng_share.jpg align="left")
 
 ### Uber Engineering Blog
 
@@ -58,11 +72,15 @@ The technology behind Uber Engineering
 
 [https://www.uber.com/en-KE/blog/nairobi/engineering/](https://www.uber.com/en-KE/blog/nairobi/engineering/)
 
+![Uber's Fulfillment Platform: Ground-up Re-architecture to Accelerate Uber's  Go/Get Strategy | Uber Blog](https://blogapi.uber.com/wp-content/uploads/2022/08/Figure-2-1-7.png align="left")
+
 ### Engineering at Quora
 
 Engineers build Quora from the ground up, from backend infrastructure to ranking algorithms to frontend abstractions, in order to achieve Quora's mission.
 
 [https://quoraengineering.quora.com/](https://quoraengineering.quora.com/)
+
+![What is Quora? - Quora](https://qph.cf2.quoracdn.net/main-qimg-cff9b3a588cb45af9e174283f0bdb1a2-lq align="left")
 
 ### Pinterest Engineering
 
@@ -70,17 +88,23 @@ Inventive engineers building the first visual discovery engine, 300 billion idea
 
 [https://medium.com/pinterest-engineering](https://medium.com/pinterest-engineering)
 
+![Big Data – Pinterest Engineering Blog – Medium](https://cdn-images-1.medium.com/fit/t/1600/480/0*KaFBwqOB56IvT6M8 align="left")
+
 ### Lyft Engineering Blog
 
 Stories from Lyft Engineering.
 
 [https://eng.lyft.com/](https://eng.lyft.com/)
 
+![Scaling productivity on microservices at Lyft (Part 1) | by Garrett Heel | Lyft  Engineering](https://miro.medium.com/v2/resize:fit:1400/0*vcavwqOx5VCmzpiT align="left")
+
 ### Twitter Engineering Blog
 
 Learn how Twitter is built and get access to its open-source algorithms.
 
 [https://blog.twitter.com/engineering/en\_us](https://blog.twitter.com/engineering/en_us)
+
+![SuperRoot: Launching a High-SLA Production Service at Twitter](https://cdn.cms-twdigitalassets.com/content/dam/blog-twitter/archive/superroot_launchingahigh-slaproductionserviceattwitter95.thumb.1280.1280.png align="left")
 
 ### Dropbox Engineering Blog
 
@@ -91,6 +115,8 @@ Learn how Twitter is built and get access to its open-source algorithms.
 Read about the magic behind the music & more.
 
 [https://engineering.atspotify.com/](https://engineering.atspotify.com/)
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1700072626243/3571cc84-1f51-484c-b97b-bd176572d860.png align="center")
 
 ### GitHub Engineering
 
@@ -110,6 +136,8 @@ Unify all your data, analytics, and AI on one platform
 
 [https://www.databricks.com/blog/category/engineering](https://www.databricks.com/blog/category/engineering)
 
+![Databricks: A Solution for Today's Data Engineering Obstacles | Analytics8](https://www.analytics8.com/wp-content/uploads/2021/11/databricks-blog-2.png align="left")
+
 ### Canva Engineering Blog
 
 The technology behind Canva. We're sharing how we solve complex engineering problems to empower everyone in the world to design.
@@ -125,6 +153,8 @@ The engineers who make Etsy make our living with a craft we love: software. This
 ### Booking.com Tech Blog
 
 [https://blog.booking.com/](https://blog.booking.com/)
+
+![Latest stories published on Booking.com Engineering – Medium](https://cdn-images-1.medium.com/max/544/0*rT8nW_0OPzoMGdtT align="left")
 
 ### Expedia Technology
 
@@ -157,6 +187,8 @@ We love the web and care deeply about beautiful code, APIs, and documentation. T
 Learn the latest from Hubspot Engineering
 
 [https://product.hubspot.com/blog/topic/engineering](https://product.hubspot.com/blog/topic/engineering)
+
+![Loop Marketing Blog | Sales Automation](https://8539285.fs1.hubspotusercontent-na1.net/hubfs/8539285/1036370_SalesAutomationGraphic2_041521.png align="left")
 
 ### Zynga Engineering
 
@@ -273,6 +305,8 @@ A group of software engineers, data scientists, and machine learning experts who
 A Disney Technology Blog
 
 [https://medium.com/disney-streaming](https://medium.com/disney-streaming)
+
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1700072877485/851ee8f1-75b1-4bda-8737-84be9bc08fcb.png align="center")
 
 I'd love to connect with you via [**Twitter**](https://twitter.com/bonaogeto) & [**LinkedIn**](https://www.linkedin.com/in/bonaventureogeto/)
 
