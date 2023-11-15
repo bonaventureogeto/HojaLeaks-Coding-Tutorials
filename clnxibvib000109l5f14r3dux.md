@@ -1,10 +1,11 @@
 ---
-title: "49 Engineering Blogs to Improve Your System Design"
-seoTitle: "49 Engineering Blogs to Improve Your System Design"
+title: "49 Engineering Blogs in System Design You Must Know"
+seoTitle: "49 Engineering Blogs in System Design You Must Know"
 datePublished: Thu Oct 19 2023 18:20:10 GMT+0000 (Coordinated Universal Time)
 cuid: clnxibvib000109l5f14r3dux
-slug: 49-engineering-blogs-to-improve-your-system-design
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/Jt9syHEhrPE/upload/cfb46aca51f64e1c7242183a2f124962.jpeg
+slug: 49-engineering-blogs-in-system-design-you-must-know
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700053318354/a4c91f43-a35e-42a0-b1a9-ab937a20092d.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1700053347296/454a0547-9174-42a1-b913-e55c4ffb4804.png
 tags: programming-blogs, aws, web-development, devops, system-architecture
 
 ---
@@ -13,152 +14,265 @@ In today's digital age, the backbone of our connected world lies within the intr
 
 In this exploration, we're embarking on a journey through 49 blogs that pull back the curtain on the inner workings of these tech titans. From Meta (formerly Facebook) to Google, Amazon Web Services (AWS), and beyond, these blogs are the portals to understanding the magic of engineering at scale.
 
-1. ### Engineering at Meta - [https://lnkd.in/e8tiSkEv](https://lnkd.in/e8tiSkEv%EF%BF%BCGoogle)
-    
-2. ### [Google](https://lnkd.in/e8tiSkEv%EF%BF%BCGoogle) Research - [https://ai.googleblog.com/](https://ai.googleblog.com/%EF%BF%BCGoogle)
-    
-3. ### [Google](https://ai.googleblog.com/%EF%BF%BCGoogle) Cloud Blog - [https://lnkd.in/enNviCF8  
-    ](https://lnkd.in/enNviCF8%EF%BF%BCAWS)
-    
-4. ### [AWS](https://lnkd.in/enNviCF8%EF%BF%BCAWS) Architecture Blog - [https://lnkd.in/eEchKJif  
-    ](https://lnkd.in/eEchKJif%EF%BF%BCAll)
-    
-5. ### [All](https://lnkd.in/eEchKJif%EF%BF%BCAll) Things Distributed - [https://lnkd.in/emXaQDaS  
-    ](https://lnkd.in/emXaQDaS%EF%BF%BCThe)
-    
-6. ### [The](https://lnkd.in/emXaQDaS%EF%BF%BCThe) Nextflix Tech Blog - [https://lnkd.in/efPuR39b  
-    ](https://lnkd.in/efPuR39b%EF%BF%BCLinkedIn)
-    
-7. ### [LinkedIn](https://lnkd.in/efPuR39b%EF%BF%BCLinkedIn) Engineering Blog - [https://lnkd.in/ehaePQth  
-    ](https://lnkd.in/ehaePQth%EF%BF%BCUber)
-    
-8. ### [Uber](https://lnkd.in/ehaePQth%EF%BF%BCUber) Engineering Blog - [https://eng.uber.com/  
-    ](https://eng.uber.com/%EF%BF%BCEngineering)
-    
-9. ### [Engineering](https://eng.uber.com/%EF%BF%BCEngineering) at Quora - [https://lnkd.in/em-WkhJd  
-    ](https://lnkd.in/em-WkhJd%EF%BF%BCPinterest)
-    
-10. ### [Pinterest](https://lnkd.in/em-WkhJd%EF%BF%BCPinterest) Engineering - [https://lnkd.in/esBTntjq  
-    ](https://lnkd.in/esBTntjq%EF%BF%BCLyft)
-    
-11. ### [Lyft](https://lnkd.in/esBTntjq%EF%BF%BCLyft) Engineering Blog - [https://eng.lyft.com/  
-    ](https://eng.lyft.com/%EF%BF%BCTwitter)
-    
-12. ### [Twitter](https://eng.lyft.com/%EF%BF%BCTwitter) Engineering Blog - [https://lnkd.in/evMFNhEs  
-    ](https://lnkd.in/evMFNhEs%EF%BF%BCDropbox)
-    
-13. ### [Dropbox](https://lnkd.in/evMFNhEs%EF%BF%BCDropbox) Engineering Blog - [https://dropbox.tech/  
-    ](https://dropbox.tech/%EF%BF%BCSpotify)
-    
-14. ### [Spotify](https://dropbox.tech/%EF%BF%BCSpotify) Engineering - [https://lnkd.in/eJerVRQM  
-    ](https://lnkd.in/eJerVRQM%EF%BF%BCGithub)
-    
-15. ### [Github](https://lnkd.in/eJerVRQM%EF%BF%BCGithub) Engineering - [https://lnkd.in/eCADWt8x  
-    ](https://lnkd.in/eCADWt8x%EF%BF%BCInstagram)
-    
-16. ### [Instagram](https://lnkd.in/eCADWt8x%EF%BF%BCInstagram) Engineering - [https://lnkd.in/e7Gag8m5  
-    ](https://lnkd.in/e7Gag8m5%EF%BF%BCDatabricks)
-    
-17. ### [Databricks](https://lnkd.in/e7Gag8m5%EF%BF%BCDatabricks) - [https://lnkd.in/eXcBj37a  
-    ](https://lnkd.in/eXcBj37a%EF%BF%BCCanva)
-    
-18. ### [Canva](https://lnkd.in/eXcBj37a%EF%BF%BCCanva) Engineering Blog - [https://canvatechblog.com/  
-    ](https://canvatechblog.com/%EF%BF%BCEtsy)
-    
-19. ### [Etsy](https://canvatechblog.com/%EF%BF%BCEtsy) Engineering - [https://lnkd.in/eddzzKRt  
-    ](https://lnkd.in/eddzzKRt%EF%BF%BCBooking.com)
-    
-20. ### [Booking.com](https://lnkd.in/eddzzKRt%EF%BF%BCBooking.com) Tech Blog - [https://blog.booking.com/  
-    ](https://blog.booking.com/%EF%BF%BCExpedia)
-    
-21. ### [Expedia](https://blog.booking.com/%EF%BF%BCExpedia) Technology - [https://lnkd.in/ehjuBE5J  
-    ](https://lnkd.in/ehjuBE5J%EF%BF%BCThe)
-    
-22. ### [The](https://lnkd.in/ehjuBE5J%EF%BF%BCThe) Airbnb Tech Blog - [https://lnkd.in/emGrJbGM  
-    ](https://lnkd.in/emGrJbGM%EF%BF%BCStripe)
-    
-23. ### [Stripe](https://lnkd.in/emGrJbGM%EF%BF%BCStripe) Engineering Blog - [https://lnkd.in/em6Svgyx  
-    ](https://lnkd.in/em6Svgyx%EF%BF%BCEbay)
-    
-24. ### [Ebay](https://lnkd.in/em6Svgyx%EF%BF%BCEbay) Tech Blog - [https://tech.ebayinc.com/  
-    ](https://tech.ebayinc.com/%EF%BF%BCFlickr's)
-    
-25. ### [Flickr's](https://tech.ebayinc.com/%EF%BF%BCFlickr's) Tech Blog - [https://code.flickr.net/  
-    ](https://code.flickr.net/%EF%BF%BCHubspot)
-    
-26. ### [Hubspot](https://code.flickr.net/%EF%BF%BCHubspot) Product and Engineering Blog - [https://lnkd.in/eRGZkBd4  
-    ](https://lnkd.in/eRGZkBd4%EF%BF%BCZynga)
-    
-27. ### [Zynga](https://lnkd.in/eRGZkBd4%EF%BF%BCZynga) Engineering - [https://lnkd.in/eex5Ddry  
-    ](https://lnkd.in/eex5Ddry%EF%BF%BCYelp)
-    
-28. ### [Yelp](https://lnkd.in/eex5Ddry%EF%BF%BCYelp) Engineering Blog - [https://lnkd.in/epgBW\_4J  
-    ](https://lnkd.in/epgBW_4J%EF%BF%BCHeroku)
-    
-29. ### [Heroku](https://lnkd.in/epgBW_4J%EF%BF%BCHeroku) Engineering Blog - [https://lnkd.in/evgctQjh  
-    ](https://lnkd.in/evgctQjh%EF%BF%BCDiscord)
-    
-30. ### [Discord](https://lnkd.in/evgctQjh%EF%BF%BCDiscord) Engineering and Design - [https://lnkd.in/evY4gpUA  
-    ](https://lnkd.in/evY4gpUA%EF%BF%BCZomato)
-    
-31. ### [Zomato](https://lnkd.in/evY4gpUA%EF%BF%BCZomato) - [https://lnkd.in/e9gf3APD  
-    ](https://lnkd.in/e9gf3APD%EF%BF%BCHotstar)
-    
-32. ### [Hotstar](https://lnkd.in/e9gf3APD%EF%BF%BCHotstar) - [https://blog.hotstar.com/  
-    ](https://blog.hotstar.com/%EF%BF%BCSwiggy)
-    
-33. ### [Swiggy](https://blog.hotstar.com/%EF%BF%BCSwiggy) - [https://bytes.swiggy.com/  
-    ](https://bytes.swiggy.com/%EF%BF%BCAcast)
-    
-34. ### [Acast](https://bytes.swiggy.com/%EF%BF%BCAcast) Tech - [https://lnkd.in/esuCEYZb  
-    ](https://lnkd.in/esuCEYZb%EF%BF%BCASOS)
-    
-35. ### [ASOS](https://lnkd.in/esuCEYZb%EF%BF%BCASOS) Tech Blog - [https://lnkd.in/esXfdv3G  
-    ](https://lnkd.in/esXfdv3G%EF%BF%BCShopify)
-    
-36. ### [Shopify](https://lnkd.in/esXfdv3G%EF%BF%BCShopify) Engineering - [https://lnkd.in/evvnqQTj  
-    ](https://lnkd.in/evvnqQTj%EF%BF%BCMicrosoft)
-    
-37. ### [Microsoft](https://lnkd.in/evvnqQTj%EF%BF%BCMicrosoft) Tech Blogs - [https://lnkd.in/etw\_7\_bN  
-    ](https://lnkd.in/etw_7_bN%EF%BF%BCEngineering)
-    
-38. ### [Engineering](https://lnkd.in/etw_7_bN%EF%BF%BCEngineering) at Microsoft - [https://lnkd.in/eEKz4ECi  
-    ](https://lnkd.in/eEKz4ECi%EF%BF%BCMongoDB)
-    
-39. ### [MongoDB](https://lnkd.in/eEKz4ECi%EF%BF%BCMongoDB) Engineering Blog - [https://lnkd.in/e9iaqcmZ  
-    ](https://lnkd.in/e9iaqcmZ%EF%BF%BCSlack)
-    
-40. ### [Slack](https://lnkd.in/e9iaqcmZ%EF%BF%BCSlack) Engineering - [https://slack.engineering/  
-    ](https://slack.engineering/%EF%BF%BCEngineering)
-    
-41. ### [Engineering](https://slack.engineering/%EF%BF%BCEngineering) at Depop - [https://lnkd.in/eGjRYcFd  
-    ](https://lnkd.in/eGjRYcFd%EF%BF%BCSourceDiving)
-    
-42. ### [SourceDiving](https://lnkd.in/eGjRYcFd%EF%BF%BCSourceDiving) (Cookpad's Engineering Blog - [https://sourcediving.com/  
-    ](https://sourcediving.com/%EF%BF%BCAuto)
-    
-43. ### [Auto](https://sourcediving.com/%EF%BF%BCAuto) Trader Engineering Blog - [https://lnkd.in/eGDKA\_g3  
-    ](https://lnkd.in/eGDKA_g3%EF%BF%BCIndeed)
-    
-44. ### [Indeed](https://lnkd.in/eGDKA_g3%EF%BF%BCIndeed) Engineering Blog - [https://lnkd.in/ecFS87Dt  
-    ](https://lnkd.in/ecFS87Dt%EF%BF%BCGusto)
-    
-45. ### [Gusto](https://lnkd.in/ecFS87Dt%EF%BF%BCGusto) Engineering Blog - [https://lnkd.in/e7yVxDKs  
-    ](https://lnkd.in/e7yVxDKs%EF%BF%BCEngineering)
-    
-46. ### [Engineering](https://lnkd.in/e7yVxDKs%EF%BF%BCEngineering) at Birdie - [https://lnkd.in/eUqJTpje  
-    ](https://lnkd.in/eUqJTpje%EF%BF%BCForethough)
-    
-47. ### [Forethough](https://lnkd.in/eUqJTpje%EF%BF%BCForethough) Engineering - [https://lnkd.in/esCKvedJ  
-    ](https://lnkd.in/esCKvedJ%EF%BF%BCCapital)
-    
-48. ### [Capital](https://lnkd.in/esCKvedJ%EF%BF%BCCapital) One - [https://lnkd.in/ezsKUf\_H  
-    ](https://lnkd.in/ezsKUf_H%EF%BF%BCDisney)
-    
-49. ### [Disney](https://lnkd.in/ezsKUf_H%EF%BF%BCDisney) Streaming - \[https://lnkd.in/e4nmMdWd
-    
+### Engineering at Meta
 
-Compilation creds: John Crickett
+Engineering at Meta is a technical news resource for engineers interested in how we solve large-scale technical challenges at Meta.
+
+[https://engineering.fb.com/](https://engineering.fb.com/)
+
+### Google Research
+
+Google Research tackles challenges that define the technology of today and tomorrow.
+
+[https://ai.googleblog.com/](https://blog.research.google/)
+
+### Google Cloud Blog
+
+News, tips, and inspiration to accelerate your digital transformation
+
+[https://cloud.google.com/blog/](https://cloud.google.com/blog/)
+
+### AWS Architecture Blog
+
+[https://aws.amazon.com/blogs/architecture/](https://aws.amazon.com/blogs/architecture/)
+
+### All Things Distributed
+
+*Werner Vogels on building scalable and robust distributed systems*
+
+[https://www.allthingsdistributed.com/](https://www.allthingsdistributed.com/)
+
+### The Nextflix Tech Blog
+
+[https://netflixtechblog.com/](https://netflixtechblog.com/)
+
+### LinkedIn Engineering Blog
+
+From scaling the LinkedIn platform to designing what’s next, they're building what's needed to connect the world's professionals to economic opportunity. 
+
+[https://engineering.linkedin.com/blog](https://engineering.linkedin.com/blog)
+
+### Uber Engineering Blog
+
+The technology behind Uber Engineering
+
+[https://www.uber.com/en-KE/blog/nairobi/engineering/](https://www.uber.com/en-KE/blog/nairobi/engineering/)
+
+### Engineering at Quora
+
+Engineers build Quora from the ground up, from backend infrastructure to ranking algorithms to frontend abstractions, in order to achieve Quora's mission.
+
+[https://quoraengineering.quora.com/](https://quoraengineering.quora.com/)
+
+### Pinterest Engineering
+
+Inventive engineers building the first visual discovery engine, 300 billion ideas, and counting.
+
+[https://medium.com/pinterest-engineering](https://medium.com/pinterest-engineering)
+
+### Lyft Engineering Blog
+
+Stories from Lyft Engineering.
+
+[https://eng.lyft.com/](https://eng.lyft.com/)
+
+### Twitter Engineering Blog
+
+Learn how Twitter is built and get access to its open-source algorithms.
+
+[https://blog.twitter.com/engineering/en\_us](https://blog.twitter.com/engineering/en_us)
+
+### Dropbox Engineering Blog
+
+[https://dropbox.tech/](https://dropbox.tech/)
+
+### Spotify Engineering
+
+Read about the magic behind the music & more.
+
+[https://engineering.atspotify.com/](https://engineering.atspotify.com/)
+
+### GitHub Engineering
+
+Discover tips, technical guides, and best practices
+
+[https://github.blog/category/engineering/](https://github.blog/category/engineering/)
+
+### Instagram Engineering
+
+Stories from the people who build @Instagram
+
+[https://instagram-engineering.com/](https://instagram-engineering.com/)
+
+### Databricks
+
+Unify all your data, analytics, and AI on one platform
+
+[https://www.databricks.com/blog/category/engineering](https://www.databricks.com/blog/category/engineering)
+
+### Canva Engineering Blog
+
+The technology behind Canva. We're sharing how we solve complex engineering problems to empower everyone in the world to design.
+
+[https://www.canva.dev/blog/engineering/](https://www.canva.dev/blog/engineering/)
+
+### Etsy Engineering
+
+The engineers who make Etsy make our living with a craft we love: software. This is where they write about their craft and their collective experience building and running the world's most vibrant handmade marketplace.
+
+[https://www.etsy.com/codeascraft](https://www.etsy.com/codeascraft)
+
+### Booking.com Tech Blog
+
+[https://blog.booking.com/](https://blog.booking.com/)
+
+### Expedia Technology
+
+An inside look into the tech and people powering the travel industry
+
+[https://medium.com/expedia-group-tech](https://medium.com/expedia-group-tech)
+
+### The Airbnb Tech Blog
+
+A deeper look into how Engineers and Data Scientists build a world of belonging
+
+[https://medium.com/airbnb-engineering](https://medium.com/airbnb-engineering)
+
+### Stripe Engineering Blog
+
+We love the web and care deeply about beautiful code, APIs, and documentation. This belief is as true today as it was when we first wrote this line on our website when we were ten people. Our engineering blog captures how, what, and why we code at Stripe.
+
+[https://stripe.com/blog/engineering](https://stripe.com/blog/engineering)
+
+### eBay Tech Blog
+
+[https://innovation.ebayinc.com/tech/](https://innovation.ebayinc.com/tech/)
+
+### Flickr's Tech Blog
+
+[https://code.flickr.net/](https://code.flickr.net/)
+
+### Hubspot Product and Engineering Blog
+
+Learn the latest from Hubspot Engineering
+
+[https://product.hubspot.com/blog/topic/engineering](https://product.hubspot.com/blog/topic/engineering)
+
+### Zynga Engineering
+
+Zynga is a leading developer of the world's most popular social games that are played by millions of people around the world each day.
+
+[https://www.zynga.com/blogs/engineering](https://www.zynga.com/blogs/engineering)
+
+### Yelp Engineering Blog
+
+[https://engineeringblog.yelp.com/](https://engineeringblog.yelp.com/)
+
+### Heroku Engineering Blog
+
+[https://blog.heroku.com/engineering](https://blog.heroku.com/engineering)
+
+### Discord Engineering and Design
+
+Resources and news for engineers and Discord app developers.
+
+[https://discord.com/category/engineering](https://discord.com/category/engineering)
+
+### Zomato
+
+[https://blog.zomato.com/category/technology](https://blog.zomato.com/category/technology)
+
+### Hotstar
+
+Write code that will see the light of the day.
+
+[https://blog.hotstar.com/](https://blog.hotstar.com/)
+
+### Swiggy
+
+Swiggy lets you order food from your favorite restaurants near you.
+
+[https://bytes.swiggy.com/](https://bytes.swiggy.com/)
+
+### Acast Tech
+
+[https://medium.com/acast-tech](https://medium.com/acast-tech)
+
+### ASOS Tech Blog
+
+[https://medium.com/asos-techblog](https://medium.com/asos-techblog)
+
+### Shopify Engineering
+
+Stories from the teams who build and scale Shopify. The commerce platform powers millions of businesses worldwide.
+
+[https://shopify.engineering/](https://shopify.engineering/)
+
+### Microsoft Tech Blogs
+
+[https://devblogs.microsoft.com/](https://devblogs.microsoft.com/)
+
+### Engineering at Microsoft
+
+How Microsoft empowers its developers to deliver at a massive scale
+
+[https://devblogs.microsoft.com/engineering-at-microsoft/](https://devblogs.microsoft.com/engineering-at-microsoft/)
+
+### MongoDB Engineering Blog
+
+#### Posts on Engineering efforts, achievements, and culture at MongoDB.
+
+[https://www.mongodb.com/blog/channel/engineering-blog](https://www.mongodb.com/blog/channel/engineering-blog)
+
+### Slack Engineering
+
+[https://slack.engineering/](https://slack.engineering/)
+
+### Engineering at Depop
+
+Stories from the Engineering Team
+
+[https://engineering.depop.com/](https://engineering.depop.com/)
+
+### SourceDiving (Cookpad's Engineering Blog)
+
+A developer blog from the folks at Cookpad.
+
+[https://sourcediving.com/](https://sourcediving.com/)
+
+### Auto Trader Engineering Blog
+
+[https://engineering.autotrader.co.uk/](https://engineering.autotrader.co.uk/)
+
+### Indeed Engineering Blog
+
+[https://engineering.indeedblog.com/blog/](https://engineering.indeedblog.com/blog/)
+
+### Gusto Engineering Blog
+
+[https://engineering.gusto.com/](https://engineering.gusto.com/)
+
+### Engineering at Birdie
+
+The ups, downs, and general musings of engineering at Birdie
+
+[https://medium.com/engineering-at-birdie](https://medium.com/engineering-at-birdie)
+
+### Forethought Engineering
+
+A group of software engineers, data scientists, and machine learning experts who are committed to building innovative solutions to improve the efficiency and effectiveness of customer service teams.
+
+[https://engineering.forethought.ai/](https://engineering.forethought.ai/)
+
+### Capital One
+
+[https://www.capitalone.com/tech/blog/](https://www.capitalone.com/tech/blog/)
+
+### Disney Streaming
+
+A Disney Technology Blog
+
+[https://medium.com/disney-streaming](https://medium.com/disney-streaming)
 
 I'd love to connect with you via [**Twitter**](https://twitter.com/bonaogeto) & [**LinkedIn**](https://www.linkedin.com/in/bonaventureogeto/)
 
