@@ -1,9 +1,9 @@
 ---
-title: "49 Engineering Blogs in System Design You Must Know"
-seoTitle: "49 Engineering Blogs in System Design You Must Know"
+title: "49 System Design Engineering Blogs You Need to Follow for Expert Insights"
+seoTitle: "49 System Design Engineering Blogs to Follow for Expert Insights"
 datePublished: Thu Oct 19 2023 18:20:10 GMT+0000 (Coordinated Universal Time)
 cuid: clnxibvib000109l5f14r3dux
-slug: 49-engineering-blogs-in-system-design-you-must-know
+slug: 49-system-design-engineering-blogs-you-need-to-follow-for-expert-insights
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700053318354/a4c91f43-a35e-42a0-b1a9-ab937a20092d.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1700053347296/454a0547-9174-42a1-b913-e55c4ffb4804.png
 tags: programming-blogs, aws, web-development, devops, system-architecture
