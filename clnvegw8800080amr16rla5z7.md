@@ -1,14 +1,16 @@
 ---
-title: "How to Connect a Node.js Project with MongoDB: A Comprehensive Guide"
+title: "How to Build, Test with Postman, and Connect a Node.js Project with MongoDB"
 seoTitle: "How to Connect a Node.js Project with MongoDB: A Comprehensive Guide"
 datePublished: Wed Oct 18 2023 06:56:34 GMT+0000 (Coordinated Universal Time)
 cuid: clnvegw8800080amr16rla5z7
-slug: how-to-connect-a-nodejs-project-with-mongodb-a-comprehensive-guide
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1697611631976/2b8fb8a3-5809-4241-aa8e-11da29ec97ab.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1697612158230/072274ba-8a14-49bc-9b09-1c3a90f26f97.png
+slug: how-to-build-test-with-postman-and-connect-a-nodejs-project-with-mongodb
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700883869179/dc02c17f-1a4d-4ea9-979b-77b687c0a2dc.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1700883906359/a278e8ac-f4a3-4936-9886-6d4fad9891a0.png
 tags: tutorial, web-development, mongodb, nodejs, webdev
 
 ---
+
+%[https://youtu.be/j0xtpdyTczk?si=OtHhUxEZO3i0fkeN] 
 
 MongoDB is a popular NoSQL database that allows developers to store and manage data in a flexible and scalable manner. Node.js is a powerful server-side runtime that allows you to build web applications using JavaScript. In this tutorial, we will walk you through the process of connecting a Node.js project with MongoDB. You can use this guide as a reference for building database-driven applications.
 
