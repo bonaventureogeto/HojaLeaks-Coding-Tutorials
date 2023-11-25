@@ -4,7 +4,7 @@ seoTitle: "How to Connect a Node.js Project with MongoDB: A Comprehensive Guide"
 datePublished: Wed Oct 18 2023 06:56:34 GMT+0000 (Coordinated Universal Time)
 cuid: clnvegw8800080amr16rla5z7
 slug: how-to-build-test-with-postman-and-connect-a-nodejs-project-with-mongodb
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700883869179/dc02c17f-1a4d-4ea9-979b-77b687c0a2dc.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700925157319/d1400b15-8429-48ef-9548-99dbf455f218.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1700883906359/a278e8ac-f4a3-4936-9886-6d4fad9891a0.png
 tags: tutorial, web-development, mongodb, nodejs, webdev
 
