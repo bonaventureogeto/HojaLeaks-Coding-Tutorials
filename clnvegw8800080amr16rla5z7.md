@@ -1,11 +1,11 @@
 ---
-title: "How to Build, Test with Postman, and Connect a Node.js Project with MongoDB"
+title: "How to Connect a Node.js API with MongoDB and Test with Postman"
 seoTitle: "How to Connect a Node.js Project with MongoDB: A Comprehensive Guide"
 datePublished: Wed Oct 18 2023 06:56:34 GMT+0000 (Coordinated Universal Time)
 cuid: clnvegw8800080amr16rla5z7
-slug: how-to-build-test-with-postman-and-connect-a-nodejs-project-with-mongodb
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700925157319/d1400b15-8429-48ef-9548-99dbf455f218.png
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1700883906359/a278e8ac-f4a3-4936-9886-6d4fad9891a0.png
+slug: how-to-connect-a-nodejs-api-with-mongodb-and-test-with-postman
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1701338385316/dd5b3cec-73b5-4864-ac1d-cc2edde8d3f6.png
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1701338462701/6ce4e731-119d-4093-94a9-33b2da42a868.png
 tags: tutorial, web-development, mongodb, nodejs, webdev
 
 ---
