@@ -1,18 +1,17 @@
 ---
-title: "49 System Design Engineering Blogs You Need to Follow for Expert Insights"
-seoTitle: "49 System Design Engineering Blogs to Follow for Expert Insights"
+title: "Engineering Blogs: 49 System Design Blogs You Need to Follow"
+seoTitle: "Engineering Blogs: 49 System Design Blogs You Need to Follow"
+seoDescription: "Here are engineering blogs to learn system design; Google Research Blog, Engineering at Meta, Uber Engineering Blog, GitHub Engineering Blog, Spotify Engine"
 datePublished: Thu Oct 19 2023 18:20:10 GMT+0000 (Coordinated Universal Time)
 cuid: clnxibvib000109l5f14r3dux
-slug: 49-system-design-engineering-blogs-you-need-to-follow-for-expert-insights
+slug: engineering-blogs-49-system-design-blogs-you-need-to-follow
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700053318354/a4c91f43-a35e-42a0-b1a9-ab937a20092d.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1700053347296/454a0547-9174-42a1-b913-e55c4ffb4804.png
-tags: programming-blogs, aws, web-development, devops, system-architecture
+tags: programming-blogs, aws, web-development, engineering, system-design, engineering-blogs
 
 ---
 
-In today's digital age, the backbone of our connected world lies within the intricacies of system design. From social media giants to e-commerce powerhouses, streaming services, and cutting-edge technology innovators, the systems that underpin these platforms are the unsung heroes, ensuring seamless user experiences and high-performance capabilities.
-
-In this exploration, we're embarking on a journey through 49 blogs that pull back the curtain on the inner workings of these tech titans. From Meta (formerly Facebook) to Google, Amazon Web Services (AWS), and beyond, these blogs are the portals to understanding the magic of engineering at scale.
+In this exploration, we're embarking on a journey through 49 engineering blogs that pull back the curtain on the inner workings of these tech titans. From Meta (formerly Facebook) to Google, Amazon Web Services (AWS), and beyond, these blogs are the portals to understanding the magic of engineering at scale.
 
 ### Engineering at Meta
 
