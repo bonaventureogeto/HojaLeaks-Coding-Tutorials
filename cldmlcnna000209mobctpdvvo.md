@@ -107,13 +107,13 @@ Go to [OpenWeatherMap's website](https://openweathermap.org/api) and sign up for
 Next, create a JavaScript file and add code to retrieve the weather data using the OpenWeatherMap API. The code should make an API call to retrieve the current weather conditions and a five-day forecast for the selected location. The weather data should then be displayed in the weather container.
 
 ```javascript
-const location = document.getElementById('location');
+const locationInput = document.getElementById('location');
 const search = document.getElementById('search');
 const weather = document.getElementById('weather');
 const API_KEY = 'YOUR_API_KEY';
 
 search.addEventListener('click', function () {
-	fetch(`https://api.openweathermap.org/data/2.5/weather?q=${location.value}&appid=${API_KEY}`)
+	fetch(`https://api.openweathermap.org/data/2.5/weather?q=${locationInput.value}&appid=${API_KEY}`)
 		.then(response => response.json())
 		.then(data => {
 			const currentWeather = data.weather[0].description;
@@ -168,7 +168,7 @@ search.addEventListener('click', function () {
 
 Finally, test the weather application by entering a location and clicking the search button. The current weather conditions and five-day forecast should be displayed in the weather container.
 
-**Here is a link to the code on GitHub** [https://github.com/bonaventureogeto/Zindua-JavaScript/tree/main/weather-app](https://github.com/bonaventureogeto/Zindua-JavaScript/tree/main/weather-app). **Star** the repository and fork to contribute and show support.
+**Here is a link to the code on GitHub**[https://github.com/bonaventureogeto/Zindua-JavaScript/tree/main/weather-app](https://github.com/bonaventureogeto/Zindua-JavaScript/tree/main/weather-app). **Star** the repository and fork to contribute and show support.
 
 Congratulations, you have created a weather application using JavaScript and the DOM! With these skills, you can create dynamic and interactive web applications.
 
@@ -182,4 +182,4 @@ I'd love to connect with you via [**Twitter**](https://twitter.com/bonaogeto) & 
 
 Happy hacking!
 
-### **To support these free courses,** [***buy me a coffee***](https://www.buymeacoffee.com/bonaogeto) ***|| Share & Like***
+### **To support these free courses,**[***buy me a coffee***](https://www.buymeacoffee.com/bonaogeto)***|| Share & Like***
