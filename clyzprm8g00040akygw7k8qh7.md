@@ -4,7 +4,8 @@ seoTitle: "JavaScript in 5 Days"
 datePublished: Wed Jul 24 2024 10:40:40 GMT+0000 (Coordinated Universal Time)
 cuid: clyzprm8g00040akygw7k8qh7
 slug: javascript-in-5-days
-tags: javascript
+cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/6SZYEy4b5d0/upload/bb04881e5fb9910b83496df840529620.jpeg
+tags: introduction, productivity, software-development, programming-blogs, javascript, web-development, react-native, webdev, reactjs, javascript-framework, beginners, software-engineering, programming-languages, programming-tips, reacthooks
 
 ---
 
