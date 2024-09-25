@@ -11,6 +11,8 @@ tags: interview, productivity, software-development, programming-blogs, python, 
 
 I’m excited to announce the launch of my new [YouTube channel](https://youtube.com/@bonaogeto), dedicated to helping both beginners and experienced developers sharpen their skills in **Programming, System Design, and Data Structures and Algorithms** to help prepare for coding interviews.
 
+%[https://youtube.com/@bonaogeto?si=SF0QJzLfH_NV-SiY] 
+
 ### What You'll Learn
 
 On my channel, you'll find **concise, easy-to-follow videos** (5-8 minutes each) breaking down crucial topics, including Data Structures and Algorithms topics such as:
@@ -28,7 +30,7 @@ On my channel, you'll find **concise, easy-to-follow videos** (5-8 minutes each)
 
 Whether you're a **beginner in coding** or a seasoned developer looking for a **quick refresher**, these videos provide the foundational knowledge you need to solve complex problems efficiently.
 
-<iframe width="424" height="238" src="https://www.youtube.com/embed/S5c44F8zc9s"></iframe>
+%[https://youtu.be/S5c44F8zc9s] 
 
 ### Why Subscribe?
 
@@ -43,6 +45,6 @@ Subscribe today and hit the notification bell to stay updated with new videos! L
 
 [**Visit my YouTube channel now**](https://youtube.com/@bonaogeto) and start learning today!
 
-<iframe width="400" height="225" src="https://www.youtube.com/embed/UIBn8RrfTQM"></iframe>
+%[https://youtu.be/UIBn8RrfTQM] 
 
 Happy Coding!
