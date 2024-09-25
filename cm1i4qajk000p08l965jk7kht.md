@@ -1,9 +1,9 @@
 ---
-title: "Introducing My New YouTube Channel"
+title: "Introducing My New YouTube Channel: Subscribe☺️"
 seoTitle: "Introducing My New YouTube Channel"
 datePublished: Wed Sep 25 2024 17:18:48 GMT+0000 (Coordinated Universal Time)
 cuid: cm1i4qajk000p08l965jk7kht
-slug: introducing-my-new-youtube-channel
+slug: introducing-my-new-youtube-channel-subscribe
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/niUkImZcSP8/upload/aef92435411c6177562c8d9869740dc7.jpeg
 tags: interview, productivity, software-development, programming-blogs, python, web-development, webdev, python3, coding, software-engineering, youtube, programming-languages, programming-tips, youtube-channel, data-structure-and-algorithms
 
