@@ -6,9 +6,11 @@ cuid: clfjtpcb0000609mk3blb4o19
 slug: 4-steps-to-integrate-apis-in-vanilla-javascript
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1700387980243/c6ae2efe-ab0d-4429-8c82-91dd9fdb2ee9.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1700388017175/b88893e3-f522-4c51-a17c-b490b047da4e.jpeg
-tags: tutorial, programming-blogs, javascript, web-development, apis
+tags: tutorial, productivity, software-development, programming-blogs, javascript, web-development, apis, webdev, javascript-framework, javascript-library, software-engineering, programming-tips, fetch-api
 
 ---
+
+%[https://youtu.be/UxuQYNeSHXs?si=otrgr3laDvFMkXTx] 
 
 APIs, or Application Programming Interfaces, allow you to interact with external data sources and retrieve information to use in your own application. In this tutorial, I'll show you how to work with APIs using Vanilla JavaScript.
 
