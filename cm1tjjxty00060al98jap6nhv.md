@@ -10,8 +10,6 @@ tags: algorithms, programming-blogs, programming, python, data-structures
 
 ---
 
-%[https://youtu.be/KKYWy6Ik3bk?si=WOq_gchwW8eedylM] 
-
 ## Introduction
 
 When designing algorithms, understanding both **time and space complexity** is crucial. While time complexity measures **how long an algorithm takes to run**, **space complexity** determines **how much memory it consumes** during execution. Both metrics help developers evaluate the efficiency of their code and optimize it for real-world performance. In this article, we’ll explore the relationship between **time and space complexity**, compare them side-by-side, and dive into examples in **Python** and **JavaScript**.
@@ -132,3 +130,5 @@ Big O Notation measures **how memory consumption grows** with the input size. Fo
 ## Conclusion
 
 Understanding both **time and space complexity** is essential for writing efficient algorithms. While time complexity helps optimize performance, space complexity ensures your code doesn’t consume excessive memory. Try to **analyze your algorithms** for both time and space efficiency and look for opportunities to **balance performance and memory usage**.
+
+%[https://youtu.be/KKYWy6Ik3bk?si=WOq_gchwW8eedylM]
