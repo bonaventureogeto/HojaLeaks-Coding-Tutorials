@@ -10,8 +10,6 @@ tags: programming-blogs, programming, data-structures, coding, programming-langu
 
 ---
 
-%[https://youtu.be/qAEgiVxJs4Y?si=FvPGVR1vBfM1qMf3] 
-
 Arrays are fundamental data structures in programming that allow developers to store and manage collections of data efficiently. In this article, we will explore what arrays are, their significance, various operations that can be performed on them, and more.
 
 ## What are Arrays in Programming?
@@ -192,3 +190,5 @@ Common operations include insertion, deletion, searching, and iteration, which a
 In this article, we've explored the fundamentals of arrays, their significance in programming, and various operations that can be performed on them. Arrays serve as the backbone for many algorithms and data structures, making them indispensable for any programmer.
 
 Now that you understand arrays and their operations, try implementing some of these examples in your code! Explore dynamic arrays further and experiment with multi-dimensional arrays.
+
+%[https://youtu.be/qAEgiVxJs4Y?si=FvPGVR1vBfM1qMf3]
