@@ -10,8 +10,6 @@ tags: interview, algorithms, programming-blogs, python, data-structures, python3
 
 ---
 
-%[https://youtu.be/UIBn8RrfTQM?si=ZR0CuG2sBQQC5sUm] 
-
 ## **What Are Data Structures and Algorithms (DSA)?**
 
 Data Structures and Algorithms (DSA) form the backbone of computer science and programming. **Data structures** are ways of organizing and storing data efficiently, while **algorithms** are step-by-step procedures or formulas to solve a particular problem. From improving the speed of software applications to cracking programming interviews, DSA knowledge is essential for every developer.
@@ -174,3 +172,5 @@ Mastering Data Structures and Algorithms takes time, patience, and consistent pr
 ## **Share Your Journey!**
 
 We’d love to hear how your DSA journey is going! Please drop a comment below to share your progress or challenges, and don’t forget to sign up for our newsletter to receive weekly tips and problem-solving strategies.
+
+%[https://youtu.be/UIBn8RrfTQM?si=ZR0CuG2sBQQC5sUm]
