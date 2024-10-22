@@ -10,8 +10,6 @@ tags: algorithms, programming-blogs, programming, data-structures, coding, progr
 
 ---
 
-%[https://youtu.be/PB2MOX-j95s?si=vA4DSAyaD0_NaFnu] 
-
 ## Introduction
 
 In programming and computer science, **data structures** are fundamental tools used to organize and manage data efficiently. They are essential for **algorithm performance**, enabling programs to store, access, and manipulate data seamlessly. Whether you are coding a simple application or developing complex systems, selecting the right **data structure** can significantly impact your software’s performance and scalability.
@@ -175,3 +173,5 @@ While the **concepts remain consistent** across languages, their **implementatio
 Understanding **data structures** is essential for writing efficient code and designing optimal algorithms. Whether you're a beginner or an experienced developer, knowing when and how to use different types of data structures can greatly improve your software’s performance.
 
 Try implementing a few **basic data structures** yourself, such as a stack or queue, in your preferred language.
+
+%[https://youtu.be/PB2MOX-j95s?si=vA4DSAyaD0_NaFnu]
