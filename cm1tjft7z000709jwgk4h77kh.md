@@ -10,8 +10,6 @@ tags: algorithms, software-development, programming-blogs, programming, python, 
 
 ---
 
-%[https://youtu.be/0Bzw3yDbsyU?si=Zu0j-aOGzWWlbHY1] 
-
 ## Introduction
 
 In the world of algorithms and data structures, **time complexity** plays a crucial role in measuring the **efficiency of an algorithm**. When designing solutions, it's essential to know how well your code performs as the input size grows. This is where **Big O Notation** comes into play. In this article, we’ll break down the basics of time complexity, explore Big O Notation, and provide easy-to-follow examples to help you understand this fundamental concept.
@@ -145,3 +143,5 @@ Yes, but **Big O Notation focuses on the worst-case performance** to ensure reli
 ## Conclusion
 
 Understanding **time complexity and Big O Notation** is key to writing efficient algorithms and scalable software. Now that you know the basics, try analyzing the time complexity of your own code!
+
+%[https://youtu.be/0Bzw3yDbsyU?si=Zu0j-aOGzWWlbHY1]
