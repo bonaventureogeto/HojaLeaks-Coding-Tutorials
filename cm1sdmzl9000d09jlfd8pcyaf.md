@@ -6,7 +6,7 @@ datePublished: Tue Oct 01 2024 21:00:00 GMT+0000 (Coordinated Universal Time)
 cuid: cm1sdmzl9000d09jlfd8pcyaf
 slug: introduction-to-data-structures-and-algorithms-roadmap
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1727904417423/0cddcbbb-7a48-4f41-bcf6-0882a598ac40.png
-tags: interview, algorithms, programming-blogs, python, data-structures, python3, coding, roadmap, technical-interview, python-beginner, data-structure-and-algorithms
+tags: interview, algorithms, software-development, programming-blogs, python, web-development, data-structures, webdev, python3, coding, software-engineering, roadmap, technical-interview, python-beginner, data-structure-and-algorithms
 
 ---
 
@@ -37,7 +37,7 @@ Learning DSA is crucial for several reasons, including:
 
 To effectively learn DSA, it’s important to follow a structured path. Here’s a breakdown of the core topics in a logical sequence:
 
-### **1\. Arrays and Strings**
+### **1\.** [**Arrays and Strings**](https://hojaleaks.com/introduction-to-arrays-and-operations-data-structures-and-algorithms-day-2)
 
 * Basic operations (insertion, deletion, traversal)
     
@@ -48,7 +48,7 @@ To effectively learn DSA, it’s important to follow a structured path. Here’s
 * Example problem: Find the longest substring without repeating characters.
     
 
-### **2\. Linked Lists**
+### **2\.** [**Linked Lists**](https://hojaleaks.com/introduction-to-linked-lists-and-types-of-linked-lists-data-structures-and-algorithms-day-3)
 
 * Singly and doubly linked lists
     
@@ -59,7 +59,7 @@ To effectively learn DSA, it’s important to follow a structured path. Here’s
 * Example problem: Detecting a cycle in a linked list.
     
 
-### **3\. Stacks and Queues**
+### **3\.** [**Stacks**](https://hojaleaks.com/introduction-to-stacks-basics-and-operations-data-structures-and-algorithms-day-6) **and** [**Queues**](https://hojaleaks.com/introduction-to-queue-data-structure-and-queue-operations-data-structures-and-algorithms-day-8)
 
 * Implementation using arrays and linked lists
     
@@ -68,7 +68,7 @@ To effectively learn DSA, it’s important to follow a structured path. Here’s
 * Example problem: Validate balanced parentheses in an expression.
     
 
-### **4\. Trees and Binary Search Trees (BST)**
+### **4\.** [**Trees**](https://hojaleaks.com/introduction-to-trees-data-structures-and-algorithms-day-11) **and** [**Binary Search Trees (BST)**](https://youtu.be/CRTJaGLw0Ms?si=THCdfyZGJsCLioX_)
 
 * Preorder, Inorder, Postorder traversals
     
@@ -79,7 +79,7 @@ To effectively learn DSA, it’s important to follow a structured path. Here’s
 * Example problem: Find the height of a binary tree.
     
 
-### **5\. Hashing and Hash Maps**
+### **5\.** [**Hashing and Hash Maps**](https://hojaleaks.com/introduction-to-hash-tables-data-structures-and-algorithms-day-18)
 
 * Hash functions and collision handling
     
@@ -88,7 +88,7 @@ To effectively learn DSA, it’s important to follow a structured path. Here’s
 * Example problem: Count the frequency of elements in an array.
     
 
-### **6\. Graphs and Graph Algorithms**
+### **6\.** [**Graphs and Graph Algorithms**](https://youtu.be/FWxCS-LpwXQ?si=w89qSchFReApWdCs)
 
 * Types of graphs: Directed, undirected, weighted
     
@@ -99,16 +99,16 @@ To effectively learn DSA, it’s important to follow a structured path. Here’s
 * Example problem: Find the shortest path in a maze.
     
 
-### **7\. Recursion and Backtracking**
+### **7\.** [**Recursion and Backtracking**](https://youtu.be/xGXYUx4kg40?si=hCkn1rsnnbeu-oQF)
 
 * Basics of recursion and recursive thinking
     
 * Backtracking for solving constraint-based problems
     
-* Example problem: Solving the N-Queens problem.
+* Example problem: [Solving the N-Queens problem.](https://youtu.be/oZsMUttTv7w?si=Jzxjq1vBefmfaF8K)
     
 
-### **8\. Sorting and Searching Algorithms**
+### **8\.** [**Sorting**](https://youtu.be/e2JVue52xFM?si=GuHbzA7AX9CHPkT4) **and** [**Searching Algorithms**](https://youtu.be/27D4CKnbYU8?si=HPRF3xis8H3IKTA5)
 
 * Bubble, Merge, Quick, and Heap Sort
     
@@ -117,16 +117,16 @@ To effectively learn DSA, it’s important to follow a structured path. Here’s
 * Example problem: Search in a rotated sorted array.
     
 
-### **9\. Dynamic Programming (DP)**
+### **9\.** [**Dynamic Programming (DP)**](https://youtu.be/pgjfo5n0OIY?si=DK6DXjc2KM8jL_IL)
 
-* Memoization and tabulation techniques
+* [Memoization and tabulation techniques](https://youtu.be/IiJuSf5ow2Q?si=YxYQX0Zr534d8Eel)
     
 * Common problems: Fibonacci, Knapsack problem, Longest Common Subsequence
     
 * Example problem: Solve the coin change problem using DP.
     
 
-### **10\. Greedy Algorithms**
+### **10\.** [**Greedy Algorithms**](https://youtu.be/UhDthBWrf8A?si=i5UyMKqPVzU9Rfjm)
 
 * Greedy choice property and optimal substructure
     
