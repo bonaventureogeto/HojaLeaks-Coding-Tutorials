@@ -14,6 +14,8 @@ Understanding the **different types of queues** is crucial for mastering data st
 
 ---
 
+%[https://youtu.be/uMFpDNoYf28?si=EMiW8vUhomdloMOQ] 
+
 ## What is a Simple Queue?
 
 A **simple queue**, also called a **linear queue**, is the most basic type of queue. It follows the **FIFO principle**, meaning the first element added is the first to be removed.
@@ -216,7 +218,3 @@ They are used in task scheduling, network routing, and shortest path algorithms.
 ## Conclusion
 
 Try implementing these **queue types in Python or JavaScript** using the code examples provided, and explore their applications further in your projects.
-
----
-
-%[https://youtu.be/uMFpDNoYf28?si=EMiW8vUhomdloMOQ]
