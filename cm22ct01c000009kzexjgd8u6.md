@@ -14,6 +14,8 @@ A **queue data structure** is one of the most fundamental and widely used concep
 
 ---
 
+%[https://youtu.be/wy_wT3Ea3E0?si=6ABG9P4D8quLu3AH] 
+
 ## What is a Queue Data Structure?
 
 A **queue** is a **linear data structure** where elements are inserted at one end (rear) and removed from the other (front). Unlike stacks, which follow **LIFO (Last-In-First-Out)**, a queue follows **FIFO (First-In-First-Out)**, meaning the first element added will be the first to be removed.
@@ -196,7 +198,3 @@ In this article, we covered the **basics of queue data structures** and their **
 Queues are essential in many real-world applications, from [**CPU scheduling**](https://www.scaler.com/topics/operating-system/cpu-scheduling/) to **graph traversal algorithms**, making them an important concept to master.
 
 Now that you understand the **queue data structure and its operations**, try implementing your own queue from scratch using the provided examples. Practice with different variations like **priority queues** and **circular queues** to solidify your knowledge!
-
----
-
-%[https://youtu.be/wy_wT3Ea3E0?si=6ABG9P4D8quLu3AH]
