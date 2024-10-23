@@ -18,6 +18,8 @@ In this article, we’ll explore **types of data structures**, their real-world 
 
 ---
 
+%[https://youtu.be/PB2MOX-j95s?si=vA4DSAyaD0_NaFnu] 
+
 ## Why are Data Structures Important?
 
 Data structures are the backbone of computer science because they determine **how data is stored and retrieved**. Well-structured data allows algorithms to run more efficiently, which is critical for both **speed and memory usage**. Without appropriate data structures, even a simple program can become slow, unscalable, and prone to errors.
