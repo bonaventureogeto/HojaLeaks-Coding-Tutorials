@@ -14,6 +14,8 @@ Stacks are a **fundamental** [**data structure**](https://hojaleaks.com/what-are
 
 ---
 
+%[https://youtu.be/kyFtUyO170Y?si=Bnu75pIREbSSCZkK] 
+
 ## **What is a Stack?**
 
 A **stack data structure** is a collection of elements that follows the **LIFO (Last-In, First-Out) principle**. This means that the last element added to the stack is the first one to be removed. Imagine a stack of plates: the plate placed on top is the first to be removed.
@@ -227,7 +229,3 @@ Stacks are used in **undo operations**, **expression parsing**, and **managing f
 Stacks are an essential data structure that offers **simple and efficient data management** through the [**LIFO principle**](https://hackernoon.com/stacks-in-programming-understanding-the-lifo-data-structure-and-its-applications). With operations like **push, pop, and peek**, stacks are widely used in both **theoretical and practical applications**, such as **expression parsing** and **browser history management**.
 
 Try implementing a **stack** in your preferred programming language using the **examples above**. Understanding how stacks work will not only improve your knowledge of data structures but also help you solve algorithmic problems more efficiently.
-
----
-
-%[https://youtu.be/kyFtUyO170Y?si=Bnu75pIREbSSCZkK]
