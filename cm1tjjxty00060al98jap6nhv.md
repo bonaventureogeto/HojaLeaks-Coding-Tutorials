@@ -18,6 +18,8 @@ If you missed **Part 1 on Big O Notation and Time Complexity**, [click here to r
 
 ---
 
+%[https://youtu.be/KKYWy6Ik3bk?si=WOq_gchwW8eedylM] 
+
 ## What is Space Complexity?
 
 **Space complexity** measures the **amount of memory an algorithm needs** to run as a function of the input size. This includes:
