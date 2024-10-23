@@ -16,6 +16,8 @@ Arrays are fundamental data structures in programming that allow developers to s
 
 An **array** is a collection of elements, all of the same type, stored in contiguous memory locations. Arrays provide a way to organize data so that related values can be accessed easily and efficiently. They are essential for various programming tasks, including data storage, retrieval, and manipulation.
 
+%[https://youtu.be/qAEgiVxJs4Y?si=FvPGVR1vBfM1qMf3] 
+
 ### Importance of Arrays
 
 Arrays are crucial for:
