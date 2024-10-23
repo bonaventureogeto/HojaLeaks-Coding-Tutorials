@@ -16,6 +16,8 @@ In the world of algorithms and data structures, **time complexity** plays a cruc
 
 ---
 
+%[https://youtu.be/0Bzw3yDbsyU?si=Zu0j-aOGzWWlbHY1] 
+
 ## What is Time Complexity?
 
 **Time complexity** refers to the amount of **time an algorithm takes to complete** as a function of the input size. It allows us to **predict how long an algorithm will take to run**, especially when the input data grows.
