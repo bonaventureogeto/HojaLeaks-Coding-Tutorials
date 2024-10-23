@@ -16,6 +16,8 @@ We’ll also look at **different types of linked lists**—singly, doubly, and c
 
 ---
 
+%[https://youtu.be/YMTobw99WEc?si=_Ud67vMTaCW0Pkjm] 
+
 ## What is a Linked List?
 
 A **linked list** is a linear data structure in which elements, called **nodes**, are connected using pointers. Each node consists of two parts:
