@@ -18,6 +18,8 @@ By the end of this article, you’ll be able to implement both **iterative and r
 
 ---
 
+%[https://youtu.be/E1dnkjd3nAc?si=nNwG0ldAduL8jVLL] 
+
 ## What is a Linked List?
 
 A **linked list** is a linear data structure made up of nodes, where each node contains:
@@ -213,7 +215,3 @@ Yes, recursion is possible but may lead to [**stack overflow**](https://en.wikip
 ## Try It Yourself!
 
 Reversing a linked list is a key skill in data structures, and mastering it will help you write more efficient code. Whether you choose an iterative or recursive approach, try implementing both for deeper understanding. **Test your code** with edge cases, such as empty lists or lists with only one node, to solidify your knowledge.
-
----
-
-%[https://youtu.be/E1dnkjd3nAc?si=nNwG0ldAduL8jVLL]
