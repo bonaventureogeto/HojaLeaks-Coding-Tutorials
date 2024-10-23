@@ -14,31 +14,6 @@ A **queue data structure** is one of the most fundamental and widely used concep
 
 ---
 
-## Table of Contents
-
-* [What is a Queue Data Structure?](#what-is-a-queue-data-structure)
-    
-* [FIFO Principle in Queues](#fifo-principle-in-queues)
-    
-* [Basic Queue Operations](#basic-queue-operations)
-    
-* [Python and JavaScript Code Examples](#python-and-javascript-code-examples)
-    
-* [Time Complexity of Queue Operations](#time-complexity-of-queue-operations)
-    
-* [Types of Queues](#types-of-queues)
-    
-* [Applications of Queues](#applications-of-queues)
-    
-* [Common Misconceptions](#common-misconceptions-about-queues)
-    
-* [FAQ](#faq)
-    
-* [Conclusion](#conclusion)
-    
-
----
-
 ## What is a Queue Data Structure?
 
 A **queue** is a **linear data structure** where elements are inserted at one end (rear) and removed from the other (front). Unlike stacks, which follow **LIFO (Last-In-First-Out)**, a queue follows **FIFO (First-In-First-Out)**, meaning the first element added will be the first to be removed.
