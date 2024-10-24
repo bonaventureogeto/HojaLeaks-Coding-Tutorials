@@ -6,7 +6,7 @@ datePublished: Thu Oct 17 2024 21:00:30 GMT+0000 (Coordinated Universal Time)
 cuid: cm2dsc4ny000009jq24xsakau
 slug: heap-sort-algorithm-complete-implementation-guide-with-python-javascript-2024-day-16
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1728051161984/4c7db2c9-6fcf-4022-8c9a-69f3076b723b.png
-tags: algorithms, programming-blogs, programming, data-structures, programming-languages
+tags: algorithms, programming-blogs, programming, java, javascript, python, development, web-development, data-structures, webdev, developer, devops, programming-languages, wemakedevs
 
 ---
 
