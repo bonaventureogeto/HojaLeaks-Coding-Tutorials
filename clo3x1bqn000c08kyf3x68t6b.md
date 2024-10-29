@@ -10,6 +10,8 @@ tags: interview, web-development, developer, jobs, leetcode
 
 ---
 
+%[https://youtube.com/playlist?list=PLVQheOntZ4A-yIOvc2x8ZelNS7TTswI7w&si=r7-L1FaaFTT3udXs] 
+
 ## 𝐅𝐨𝐫 𝐎𝐧𝐥𝐢𝐧𝐞 𝐀𝐬𝐬𝐞𝐬𝐬𝐦𝐞𝐧𝐭 + 𝐏𝐡𝐨𝐧𝐞 𝐒𝐜𝐫𝐞𝐞𝐧 + 𝐎𝐧𝐬𝐢𝐭𝐞 𝐑𝐨𝐮𝐧𝐝𝐬:
 
 * [https://lnkd.in/dXB7xbsc](https://lnkd.in/dXB7xbsc%EF%BF%BC-)
@@ -27,7 +29,7 @@ tags: interview, web-development, developer, jobs, leetcode
 * https://lnkd.in/d5C5AfDB
     
 
-## [𝐅𝐨𝐫 𝐁𝐞𝐡𝐚𝐯𝐢𝐨𝐮𝐫𝐚𝐥 𝐑𝐨𝐮𝐧𝐝𝐬:](https://lnkd.in/d5C5AfDB￼￼2)
+## [𝐅𝐨𝐫 𝐁𝐞𝐡𝐚𝐯𝐢𝐨𝐮𝐫𝐚𝐥 𝐑𝐨𝐮𝐧𝐝𝐬:](https://lnkd.in/d5C5AfDB%EF%BF%BC%EF%BF%BC2)
 
 * [https://lnkd.in/daWKBYxu](https://lnkd.in/daWKBYxu%EF%BF%BC-)
     
@@ -40,7 +42,7 @@ tags: interview, web-development, developer, jobs, leetcode
 * https://lnkd.in/dRsXPyfW
     
 
-## [𝐅𝐨𝐫 𝐒𝐲𝐬𝐭𝐞𝐦 𝐃𝐞𝐬𝐢𝐠𝐧 𝐑𝐨𝐮𝐧𝐝𝐬 (𝐋𝐋𝐃 + 𝐇𝐋𝐃):](https://lnkd.in/dRsXPyfW￼￼3)
+## [𝐅𝐨𝐫 𝐒𝐲𝐬𝐭𝐞𝐦 𝐃𝐞𝐬𝐢𝐠𝐧 𝐑𝐨𝐮𝐧𝐝𝐬 (𝐋𝐋𝐃 + 𝐇𝐋𝐃):](https://lnkd.in/dRsXPyfW%EF%BF%BC%EF%BF%BC3)
 
 * [https://lnkd.in/dYqeeU8v](https://lnkd.in/dYqeeU8v%EF%BF%BC-)
     
@@ -57,7 +59,7 @@ tags: interview, web-development, developer, jobs, leetcode
 * https://lnkd.in/ddv7-88p
     
 
-## [𝐒𝐨𝐦𝐞 𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐞𝐬 𝐓𝐨 𝐅𝐨𝐥𝐥𝐨𝐰:](https://lnkd.in/ddv7-88p￼￼4)
+## [𝐒𝐨𝐦𝐞 𝐒𝐭𝐫𝐚𝐭𝐞𝐠𝐢𝐞𝐬 𝐓𝐨 𝐅𝐨𝐥𝐥𝐨𝐰:](https://lnkd.in/ddv7-88p%EF%BF%BC%EF%BF%BC4)
 
 * [https://lnkd.in/dzJnpSMN](https://lnkd.in/dzJnpSMN%EF%BF%BC-)
     
