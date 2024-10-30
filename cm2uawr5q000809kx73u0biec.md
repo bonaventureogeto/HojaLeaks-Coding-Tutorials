@@ -1,7 +1,6 @@
 ---
 title: "Why I Switched from Vim to Zed (and How It Improved My Workflow)"
-seoTitle: "Why I Switched from Vim to Zed (and How It Improved My Workflow)"
-seoDescription: "Discover why I switched from Vim to Zed and how this modern editor improves coding efficiency with real-time collaboration and Vim-like commands."
+seoTitle: "5 Reasons Why I Switched from Vim to Zed"
 datePublished: Tue Oct 29 2024 10:24:44 GMT+0000 (Coordinated Universal Time)
 cuid: cm2uawr5q000809kx73u0biec
 slug: why-i-switched-from-vim-to-zed-and-how-it-improved-my-workflow
